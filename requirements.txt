@@ -1,0 +1,6 @@
+bpy==5.0.1
+numpy<2
+scipy
+pillow
+OpenEXR
+shapely
